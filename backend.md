@@ -1,3 +1,21 @@
+* [实现 Bitcask ，一种日志结构的哈希表](https://juejin.cn/post/7174345557861728292)（[wangxuanni](https://github.com/wangxuanni) 翻译）
+* [用 Isabelle/HOL 验证分布式系统](https://juejin.cn/post/7166450887626326030)（[wangxuanni](https://github.com/wangxuanni) 翻译）
+* [十大 Java 语言特性](https://juejin.cn/post/7140097107000000520)（[jaredliw](https://github.com/jaredliw) 翻译）
+* [使用令牌桶和熔断器进行重试](https://juejin.cn/post/7153093426446237727)（[wangxuanni](https://github.com/wangxuanni) 翻译）
+* [WebRTC 与 WebSockets 教程 — Web 端的实时通信](https://juejin.cn/post/7138015673850003493)（[DylanXie123](https://github.com/DylanXie123) 翻译）
+* [微服务架构何时会是一种坏选择](https://juejin.cn/post/7135364257918484488)（[DylanXie123](https://github.com/DylanXie123) 翻译）
+* [如何使用 Python 中的 PyPA setuptools 打包和部署 CLI 应用程序](https://juejin.cn/post/7125323312321789989)（[haiyang-tju](https://github.com/haiyang-tju) 翻译）
+* [10 个最难的 Python 问题](https://juejin.cn/post/7124285689717325831)（[jaredliw](https://github.com/jaredliw) 翻译）
+* [你应该知道的 Node.js 内存限制](https://juejin.cn/post/7087578623393136670)（[CarlosChenN](https://github.com/CarlosChenN) 翻译）
+* [你需要了解的 Python 3.10 新特性](https://juejin.cn/post/7089649375692980231)（[samyu2000](https://github.com/samyu2000) 翻译）
+* [作为一名前端工程师我浪费时间学习了这些技术](https://juejin.cn/post/7086019601372282888)（[airfri](https://github.com/airfri) 翻译）
+* [SREs 和 DevOps 十大开源项目](https://juejin.cn/post/7089270839475978253)（[keepmovingljzy](https://github.com/keepmovingljzy) 翻译）
+* [使用 Stream 构建高性能的 Node.js 应用](https://juejin.cn/post/7078964784980295694)（[Tong-H](https://github.com/Tong-H) 翻译）
+* [多语言横向对比 Python 有多慢？](https://juejin.cn/post/7073001978929872927)（[Alfxjx](https://github.com/Alfxjx) 翻译）
+* [使用 FastAPI 提升 Python 代码的运行性能](https://juejin.cn/post/7068865005436796958)（[zenblofe](https://github.com/zenblofe) 翻译）
+* [HTTP/3 为什么这么快？](https://juejin.cn/post/7055178022445383694)（[jaredliw](https://github.com/jaredliw) 翻译）
+* [SpringBoot 微服务监控](https://juejin.cn/post/7056817945787236389)（[YueYongDev](https://github.com/YueYongDev) 翻译）
+* [如何使用 Python 管道 Pipe 高效编码](https://juejin.cn/post/7051051681357758494)（[zenblofe](https://github.com/zenblofe) 翻译）
 * [使用 TypeScript 时你会想念的 Python 特性](https://juejin.cn/post/7007327298013626399)（[Tong-H](https://github.com/Tong-H) 翻译）
 * [使用人工智能/机器学习构建文章推荐引擎](https://juejin.cn/post/7001479252163952670)（[jaredliw](https://github.com/jaredliw) 翻译）
 * [分布式追踪事项](https://juejin.cn/post/7002917628326969381)（[ItzMiracleOwO](https://github.com/ItzMiracleOwO) 翻译）
